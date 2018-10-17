@@ -1,26 +1,30 @@
 # Beginners Track
 
-## Introduction
+## Introduction to Docker
 
-[Docker Containers and Virtualization](https://github.com/ajeetraina/docker101/blob/master/beginners/VM_Containers.md)
+[What are Linux Containers?](https://github.com/ajeetraina/docker101/blob/master/beginners/001_Docker_Containers.md)
 
-[What is Dockerfile?](https://github.com/ajeetraina/docker101/blob/master/beginners/intro-to-dockerfile-003.md)
+[Architecture of Linux Containers?](https://github.com/ajeetraina/docker101/blob/master/beginners/002_Docker_Containers.md)
+
+[Linux Container Vs Virtual Machine](https://github.com/ajeetraina/docker101/blob/master/beginners/003_Containers_Vs_VM.md)
 
 ## Docker Image | Containers | Linking Two Containers
 
-[Running Your First Docker Image](https://github.com/ajeetraina/docker101/blob/master/beginners/hello-world-001.md)
+[Running Your First Docker Image](https://github.com/ajeetraina/docker101/blob/master/beginners/010_hello-world-001.md)
 
-[Running Your First Ubuntu Container](https://github.com/ajeetraina/docker101/blob/master/beginners/first-ubuntu-container-002.md)
+[Running Your First Ubuntu Container](https://github.com/ajeetraina/docker101/blob/master/beginners/011_first-ubuntu-container-002.md)
 
-[Building Docker Image from Dockerfile](https://github.com/ajeetraina/docker101/blob/master/beginners/chap03.md)
+[Building Docker Image from Dockerfile](https://github.com/ajeetraina/docker101/blob/master/beginners/012_chap03.md)
 
-[Running WordPress in a single Docker Container](https://github.com/ajeetraina/docker101/tree/master/beginners/wordpress/single-node)
 
-[Running a WordPress Blog Using Two Linked Containers](https://github.com/ajeetraina/docker101/tree/master/beginners/wordpress#running-a-wordpress-blog-using-two-linked-containerssingle-node-cluster)
+## Introduction to Dockerfile
+
+[What is Dockerfile?](https://github.com/ajeetraina/docker101/blob/master/beginners/020_Dockerfile.md)
+
 
 ## Introduction to Docker Networking 
 
-[Introduction to Docker Networking](https://github.com/ajeetraina/docker101/blob/master/beginners/IntroToNetworkDocker.md)
+[Introduction to Docker Networking](https://github.com/ajeetraina/docker101/blob/master/beginners/030_IntroToNetworkDocker.md)
 
 [What are different types of Networking in Docker](https://github.com/ajeetraina/docker101/blob/master/beginners/IntroToNetworkDocker.md#what-are-different-types-of-networking-in-docker)
 
